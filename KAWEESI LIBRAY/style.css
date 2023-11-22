@@ -1,0 +1,155 @@
+*{
+    
+    margin:0; padding:0; font-family:'Times New Roman'; box-sizing:border-box;
+}
+#navigate
+{
+    width: 100%;
+    position: relative;
+    height: 80px;}
+#navigate #navbar{
+    list-style:none;
+    margin:0;
+    display: flex;
+    color: rgb(226, 43, 211);
+    font-weight:400;
+    line-height: 40px;
+    padding:10px 18px;
+    background-color:aquamarine;
+    background-position: absolute;
+    position:top;
+
+}
+#navigate #navbar ul li{
+    display:inline-block;
+    list-style: none;
+    padding: 02px 04px;
+    
+}
+#navigate #navbar ul li a{
+    text-decoration: none;
+    color: brown;
+    padding: 12px 16px;
+}
+nav li a:hover{
+    color: rgb(16, 46, 71);
+}
+#abert{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+#library
+{
+    font-family:'Times New Roman';
+    float: left;
+    position: relative;
+    align-content: center;
+    margin-right: 15%;
+    margin-top: -350px;
+    padding: 20px;
+    
+}
+
+.logo{
+list-style:none;
+    display: flex;
+    color: rgb(255, 255, 255);
+width: 100%;
+    line-height: 30px;
+    margin-top: -500px;
+    align-items: center;
+    padding: 25px 35px;;
+     background-color: rgb(154, 149, 142);
+    background-position: absolute;
+    
+
+   
+}
+logo ul{
+    padding: 20px 20px;
+    list-style: none;
+    display: inline-block;
+    width: 200px;
+}
+#dan{
+    line-height: 5px;
+    margin-left: 1000px;
+    padding: 2px;
+}
+h3{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+#din{
+    margin: 0;
+    margin-bottom: -290px;
+    line-height: 50px;
+    width: 300px;
+    height: 300px;
+    
+}
+#me{
+    float: left;
+    margin: 45%;
+    width: 600px;
+    height: 450px;
+  
+  
+  
+  
+  
+  
+  
+    margin-top: -10px;
+    margin-right: 0px;
+
+}
+h1{
+    color: rgb(176, 49, 49);
+    font-family: sans-serif;
+    font-size: medium;
+}
+p{
+    color: rgb(243, 255, 240);
+    font-size: small;
+}
+nav{
+    width: 100%;
+    position: relative;
+    height: 80px;}
+nav .logo {
+    list-style:none;
+    margin:0;
+    display: flex;
+    color: rgb(226, 43, 211);
+    font-weight:400;
+    line-height: 40px;
+    padding:10px 18px;
+    background-color:red;
+    background-position: absolute;
+    position:top;
+
+}
+nav .logo ul li{
+    display:inline-block;
+    list-style: none;
+    padding: 02px 04px;
+    
+}
+nav .logo ul li a{
+    color:white;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+ #image .ab{
+    width: 20%;
+    height:30% ;
+    padding: 20px 25px;
+    margin: 0% auto;
+    text-align: center;
+}
